@@ -21,6 +21,7 @@
 		5E8765D427BB3B63005CEDF6 /* RxRelay in Frameworks */ = {isa = PBXBuildFile; productRef = 5E8765D327BB3B63005CEDF6 /* RxRelay */; };
 		5E8765D627BB3B63005CEDF6 /* RxSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 5E8765D527BB3B63005CEDF6 /* RxSwift */; };
 		5EC83EB227BF9EE000856830 /* UIColor-Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC83EB127BF9EE000856830 /* UIColor-Extension.swift */; };
+		5EC83EB427C3586E00856830 /* CardInfoLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC83EB327C3586E00856830 /* CardInfoLabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		5E5F183C27BA7A6300FDDBF0 /* UIImage-Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage-Extension.swift"; sourceTree = "<group>"; };
 		5E5F183F27BB2E6900FDDBF0 /* TopControlView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopControlView.swift; sourceTree = "<group>"; };
 		5EC83EB127BF9EE000856830 /* UIColor-Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor-Extension.swift"; sourceTree = "<group>"; };
+		5EC83EB327C3586E00856830 /* CardInfoLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardInfoLabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 				5E5F183F27BB2E6900FDDBF0 /* TopControlView.swift */,
 				5E4B164727BE6F9400A2B7F5 /* CardView.swift */,
 				5E5F183A27BA574700FDDBF0 /* BottomControlView.swift */,
+				5EC83EB327C3586E00856830 /* CardInfoLabel.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -216,6 +219,7 @@
 			files = (
 				5E5F184027BB2E6900FDDBF0 /* TopControlView.swift in Sources */,
 				5E5F182827BA46B600FDDBF0 /* HomeViewController.swift in Sources */,
+				5EC83EB427C3586E00856830 /* CardInfoLabel.swift in Sources */,
 				5E5F182427BA46B600FDDBF0 /* AppDelegate.swift in Sources */,
 				5E306DC127BDFDC9008046FB /* UIView-Extension.swift in Sources */,
 				5EC83EB227BF9EE000856830 /* UIColor-Extension.swift in Sources */,
